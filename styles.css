@@ -1,2 +1,19 @@
+label{
+	display: block;
+	margin-bottom: 5px;
+}
 
+button{
+	width: 100px;
+	height: 40px;
+	border: none;
+	background-color: #528AAE;
+	border-radius: 5px;
+	font-size: 16px;
+}
+
+button:hover{
+	background-color: #900C3F;
+	color: #ffffff;
+}
 /* Your CSS Code here. */
